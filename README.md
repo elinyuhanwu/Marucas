@@ -21,7 +21,7 @@ This website is a responsive website using CSS to adapt to diffrent screen sizes
 
 ![dishes](./img/dishes1.png)
 
-<div align=center><img width="300" height="550" src="./img/dishes2.png"/></div>
+<div align=center><img width="350" height="550" src="./img/dishes2.png"/></div>
 
 
 ## Issues
